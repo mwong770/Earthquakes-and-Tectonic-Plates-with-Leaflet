@@ -2,7 +2,7 @@
 
 Visualize the relationship between tectonic plates and seismic activity from the last seven days with an interactive map.
 
-[Check Out Earthquakes-and-Tectonic-Plates-with-Leaflet](https://mwong770.github.io/Earthquakes-and-Tectonic-Plates-with-Leaflet/)
+[Check Out Earthquakes-and-Tectonic-Plates-with-Leaflet](https://hidden-ridge-33755.herokuapp.com/)
 
 
 ## Table of Contents
