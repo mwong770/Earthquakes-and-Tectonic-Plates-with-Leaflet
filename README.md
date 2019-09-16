@@ -24,6 +24,7 @@ Visualize the relationship between tectonic plates and seismic activity from the
 * Leaflet.js
 * Mapbox
 * [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
+* Flask
 * JavaScript
 * HTML5
 * CSS3
